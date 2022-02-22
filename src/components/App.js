@@ -4,7 +4,6 @@ import { Filter } from "../components/Filter/Filter";
 import { Section } from "./Section/Section.styled";
 
 export function App () {
-
     return (
       <Section>
         <p>Phonebook</p>
